@@ -3,8 +3,11 @@
 ## Backend Developer | Teacher/Educator
 
 🔭 Actualmente trabajo como Backend Developer en el sector Fintech
+
 🎓 +15 años de experiencia en tecnología | Ex-docente universitario
+
 🏆 1er lugar Claro Mobile App Contest (Nicaragua)
+
 📍 León, Nicaragua | Trabajo 100% remoto
 
 ### 🛠️ Stack Tecnológico
