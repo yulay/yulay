@@ -10,9 +10,13 @@
 ### 🛠️ Stack Tecnológico
 
 **Backend:** .NET Core 6/8 | C# | Python | Ruby on Rails | Java
+
 **Cloud:** Azure Functions | Blob Storage | SQL Database | App Service
+
 **Bases de Datos:** SQL Server | PostgreSQL | MySQL
+
 **DevOps:** Azure DevOps | Git | CI/CD Pipelines | Docker
+
 **Metodologías:** Scrum | Clean Architecture | Clean Code
 
 ### 🔗 Conecta conmigo
