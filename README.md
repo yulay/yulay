@@ -15,9 +15,7 @@
 **DevOps:** Azure DevOps | Git | CI/CD Pipelines | Docker
 **Metodologías:** Scrum | Clean Architecture | Clean Code
 
-### 📊 Estadísticas de GitHub
-[Aquí puedes agregar badges de estadísticas]
-
 ### 🔗 Conecta conmigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yulaynic)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yulayracingteam@gmail.com)
